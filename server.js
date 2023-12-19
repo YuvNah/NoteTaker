@@ -39,7 +39,7 @@ app.post("/api/notes", (req, res) => {
       parsedData.push(req.body);
       console.log(parsedData);
       fs.writeFile("db/db.json", JSON.stringify(parsedData), (err) =>
-        err ? console.error(err) : console.info(`\nData written to`)
+        err ? console.error(err) : res.json()
       );
     }
   });
