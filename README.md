@@ -11,8 +11,13 @@ The user will not be presented with the save button until both the 'Note Title' 
 
 After clicking on the save button, the note will be saved to the left in the Note Taker list.
 
+![](assets/Screenshot1.png)
+![](assets/Screenshot2.png)
+
 ## Links
 
 Githun repo - https://github.com/YuvNah/NoteTaker
 
-Heroku -
+Heroku - (will be added at a later date)
+
+video Link (temporery) - https://drive.google.com/file/d/1olutyg9szZ66ZmAW2B08YpciLXR_mHjy/view
